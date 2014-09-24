@@ -11,5 +11,5 @@ biocViews: DNAMethylation
 Collate: AllClasses.r
 	 read.data.r
 	 MFDataSet-utils.R
-
+	 methylFlowr-package.r
 
